@@ -1,0 +1,15 @@
+{
+    "name": "Test.VeeArrTeeOk.Runtime",
+    "references": [
+        "GUID:59da94a10bc24cf4b9817be40a0f7ea1",
+        "GUID:1f4bed240b34ffa4d8a8883ed4f28dc9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
